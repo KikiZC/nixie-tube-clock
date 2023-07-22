@@ -8,7 +8,7 @@ pygame.init()
 # Nastavení rozměrů okna
 width, height = 850, 400
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Nixie Tube Hodiny pomocí Pygame")
+pygame.display.set_caption("Nixie Tube Hodiny")
 
 # Barvy
 background_color = (10, 10, 10)
